@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google-cloud/storage": "^6.12.0",
+    "bluebird": "^3.7.2",
+    "firebase-admin": "^11.10.1",
+    "http": "^0.0.1-security",
+    "pg-promise": "^11.5.0"
+  }
+}
